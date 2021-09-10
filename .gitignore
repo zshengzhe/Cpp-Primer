@@ -35,3 +35,9 @@
 
 # vim
 *.swp
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
